@@ -1,0 +1,13 @@
+*.pyc
+*.zip
+*.pth
+*.ckpt
+
+**/__pycache__/
+.gradio/
+
+tmp/
+debug/
+datasets/ 
+outputs/
+evaluations/
