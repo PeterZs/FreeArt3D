@@ -143,7 +143,7 @@ This tool can help you add a virtual disk for every input image efficiently. It 
 
 
 ## 🤗 Demo
-We have deployed our live demo at [huggingface space](https://huggingface.co/spaces/MorPhLingXD/FreeArt3D). However, due to the long running time of our method, it's also recommended running the demo on your local machine:
+We have deployed our live demo at [huggingface space](https://huggingface.co/spaces/MorPhLingXD/FreeArt3D). However, due to the long running time of our method, it's also recommended to run the demo on your local machine:
 
 ```bash
 python app.py
@@ -166,7 +166,6 @@ We acknowledge the following repositories for borrowing the codes:
 If you find this repository useful in your project, welcome to cite our work :)
 
 ```
-[BibTex]
 @InProceedings{chen2025freeart3d,
   title = {FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion},
   author = {Chen, Chuhao and Liu, Isabella and Wei, Xinyue and Su, Hao and Liu, Minghua},
@@ -174,3 +173,4 @@ If you find this repository useful in your project, welcome to cite our work :)
   year = {2025}
 }
 ```
+
