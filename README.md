@@ -1,8 +1,8 @@
 <h1 align="center">FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion</h1> 
 <h3 align="center">SIGGRAPH Asia 2025</h3> 
 
-<p align="center"><a href="https://czzzzh.github.io/FreeArt3D/FreeArt3D.pdf"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-<a href="https://arxiv.org/abs/2510.25765"><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<p align="center"><a href="https://arxiv.org/abs/2510.25765"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+<a href="https://czzzzh.github.io/FreeArt3D"><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 <a href="https://huggingface.co/spaces/MorPhLingXD/FreeArt3D"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live_Demo-blue'></a>
 </p>
 
